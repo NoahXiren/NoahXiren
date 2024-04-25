@@ -12,9 +12,6 @@
 
 
 
-
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Noah+Xiren!;+Nice+to+meet+you🤗." />
 </h1>
@@ -32,6 +29,13 @@ Hello there! 👋 I'm Noah, a passionate programmer and enthusiastic problem sol
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+
+# 🔝 Top Contributed Repo
+<div align = "center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=NoahXiren&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
+</div>
+
+
 # 📊 GitHub Stats:
 <div align= "center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoahXiren&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true"  height="150" alt="stats graph"  />
@@ -42,11 +46,6 @@ Hello there! 👋 I'm Noah, a passionate programmer and enthusiastic problem sol
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NoahXiren&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-<div>
-  <img src="https://github-contributor-stats.vercel.app/api?username=NoahXiren&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
-</div>
 
 
 ### 😂 Random Dev Meme
