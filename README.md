@@ -48,11 +48,5 @@ Hello there! 👋 I'm Noah, a passionate programmer and enthusiastic problem sol
 ![](https://github-profile-trophy.vercel.app/?username=NoahXiren&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 😂 Random Dev Meme
-<div align="center">
-    <img src='https://randommeme-five.vercel.app/' style="height: 500px;"/>
-</div>
-
----
 
 
