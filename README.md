@@ -37,11 +37,9 @@ Hello there! 👋 I'm Noah, a passionate programmer and enthusiastic problem sol
 
 
 # 📊 GitHub Stats:
-<div align= "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoahXiren&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true"  height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahXiren&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact"  height="150" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoahXiren&theme=midnight-purple&hide_border=false" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoahXiren&theme=holi&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NoahXiren&theme=holi&hide_border=false&include_all_commits=true&count_private=false" width="350",alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahXiren&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact"  height="150" alt="languages graph" width="350"/>
 
 
 ## 🏆 GitHub Trophies
